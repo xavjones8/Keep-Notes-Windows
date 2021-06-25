@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Keep Notes.exe" size="763824">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Keep Notes.exe" size="762880">
       <assemblyIdentity name="Keep Notes" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bQWCCp83TfjHl8k/aTjRpQ4p2uybchbpbwcmBWAV/HE=</dsig:DigestValue>
+        <dsig:DigestValue>kGM1yCwf4LDIiC83xZ4tK/9jl7Ieupvpe45PoK6F34c=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
