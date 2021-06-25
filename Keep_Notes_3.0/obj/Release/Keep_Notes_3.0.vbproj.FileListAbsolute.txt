@@ -1,0 +1,47 @@
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbprojAssemblyReference.cache
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ApplicationSettings.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Calculator.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ExpandedNote.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Form1.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.FormCreateNotes.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Resources.resources
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.GenerateResource.cache
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.CoreCompileInputs.cache
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.TrustInfo.xml
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.exe
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.xml
+C:\Users\xavjo\source\repos\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.pdb
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ApplicationSettings.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Calculator.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ExpandedNote.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Form1.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.FormCreateNotes.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Resources.resources
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.GenerateResource.cache
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbprojAssemblyReference.cache
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.CoreCompileInputs.cache
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.TrustInfo.xml
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.exe
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.xml
+C:\Users\xavjo\Documents\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.pdb
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbprojAssemblyReference.cache
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ApplicationSettings.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Calculator.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.ExpandedNote.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Form1.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.FormCreateNotes.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3._0.Resources.resources
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.GenerateResource.cache
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep_Notes_3.0.vbproj.CoreCompileInputs.cache
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.TrustInfo.xml
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.exe
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.xml
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.pdb
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.exe.config
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.exe.manifest
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.application
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.exe
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.pdb
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\bin\Release\Keep Notes.xml
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.exe.manifest
+C:\Users\xavjo\Documents\Visual Studio Projects\Keep_Notes_3.0-20200327T004550Z-001\Keep_Notes_3.0\Keep_Notes_3.0\obj\Release\Keep Notes.application

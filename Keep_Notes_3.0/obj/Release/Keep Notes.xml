@@ -1,0 +1,476 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Keep Notes
+</name>
+</assembly>
+<members>
+<member name="T:Keep_Notes_3._0.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Back2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Blue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.BlueSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Button_Indicator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Button_OffCorrect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Button_OnCorrect">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.ButtonCalculatorDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.ButtonDown">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.ButtonUp">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorBack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorBackDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorBar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorBarDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorButtonDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CalculatorButtonReal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Cancel_Delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Chk123">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Chk1234567">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Create">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Create_Button_Idea_2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.CreateButton">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Button_Indicator">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Button_OffCorrect1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Button_OnCorrect1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_ButtonDown1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_ButtonUp1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_CancelDelete_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_CreateButton1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Edit_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Notes">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Settings_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Settings3056">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Settings4012">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Dark_Submit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkBack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkModeColorWheel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkModeColorWheel2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Darks_NoteCreation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSelectionBar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSelectionBar2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSelectionBar3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSettingsDrawer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSettingsDrawer2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSettingsDrawer3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkSettingsDrawer4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkTrash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DarkWhateverThatShitIs">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.DefaultSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Edit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Flow_Panel_Background">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Green">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.GreenSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Image1">
+<summary>
+  Looks up a localized string similar to .
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Light_Mode_Color_Wheel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.LightBlue">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.LightModeColorWheel">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.LightSelectionBar">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.LightSelectionBar2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NewOpenColorDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NewOpenColorDark2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NewOpenColorLight">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NoteBack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NoteCreation">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NoteCreation2_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.NoteCreation2_0Dark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Photo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Photo2_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.PhotoDark">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.PictureBoxNote1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Pink">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.PinkSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Purple">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.PurpleSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Reference_1_0">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Settings">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Settings12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.SettingsDrawer">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.SettingsDrawer2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.SettingsDrawer3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.SettingsDrawer4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Submit">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Trash">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.TurquoiseSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.White">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.Yellow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Keep_Notes_3._0.My.Resources.Resources.YellowSelection">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
